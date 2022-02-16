@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wandaren2015.github.io</id>
-    <title>万达人小站</title>
-    <updated>2022-02-16T07:39:42.825Z</updated>
+    <title>万大人小站</title>
+    <updated>2022-02-16T07:50:49.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wandaren2015.github.io"/>
     <link rel="self" href="https://wandaren2015.github.io/atom.xml"/>
     <subtitle>在路上</subtitle>
     <logo>https://wandaren2015.github.io/images/avatar.png</logo>
     <icon>https://wandaren2015.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 万达人小站</rights>
+    <rights>All rights reserved 2022, 万大人小站</rights>
     <entry>
         <title type="html"><![CDATA[小学生字]]></title>
         <id>https://wandaren2015.github.io/post/xiao-xue-sheng-zi/</id>
