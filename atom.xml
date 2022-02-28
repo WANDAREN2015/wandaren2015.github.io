@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wandaren2015.github.io</id>
     <title>万大人小站</title>
-    <updated>2022-02-17T06:43:47.636Z</updated>
+    <updated>2022-02-28T01:19:28.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wandaren2015.github.io"/>
     <link rel="self" href="https://wandaren2015.github.io/atom.xml"/>
@@ -10,6 +10,110 @@
     <logo>https://wandaren2015.github.io/images/avatar.png</logo>
     <icon>https://wandaren2015.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 万大人小站</rights>
+    <entry>
+        <title type="html"><![CDATA[课程表]]></title>
+        <id>https://wandaren2015.github.io/post/ke-cheng-biao/</id>
+        <link href="https://wandaren2015.github.io/post/ke-cheng-biao/">
+        </link>
+        <updated>2022-02-28T01:15:49.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:center">时间</th>
+<th style="text-align:center">序号</th>
+<th style="text-align:center">周一</th>
+<th style="text-align:center">周二</th>
+<th style="text-align:center">周三</th>
+<th style="text-align:center">周四</th>
+<th style="text-align:center">周五</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">1</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">2</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">3</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">4</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">5</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">6</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">7</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">8</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+<tr>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">9</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+<td style="text-align:center">单元格</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[小学生字]]></title>
         <id>https://wandaren2015.github.io/post/xiao-xue-sheng-zi/</id>
