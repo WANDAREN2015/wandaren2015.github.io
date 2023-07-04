@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wandaren2015.github.io</id>
-    <title>万达人小站</title>
+    <title>万大人小站</title>
     <updated>2022-10-12T02:46:41.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wandaren2015.github.io"/>
@@ -9,7 +9,7 @@
     <subtitle>在路上</subtitle>
     <logo>https://wandaren2015.github.io/images/avatar.png</logo>
     <icon>https://wandaren2015.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, 万达人小站</rights>
+    <rights>All rights reserved 2022, 万大人小站</rights>
     <entry>
         <title type="html"><![CDATA[我的玩具汽车]]></title>
         <id>https://wandaren2015.github.io/post/wo-de-wan-ju-qi-che/</id>
